@@ -1,0 +1,8 @@
+2020-06-11T06:25:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\NE\woodmart\wp-includes\class-wp-image-editor.php en la línea 489
+
+2020-06-11T06:40:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\NE\woodmart\wp-includes\class-wp-image-editor-gd.php en la línea 191
+
+2020-06-11T07:05:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\NE\woodmart\wp-includes\wp-db.php en la línea 2024
+
+2020-06-11T07:06:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\NE\woodmart\wp-includes\class-wp-image-editor-gd.php en la línea 191
+
